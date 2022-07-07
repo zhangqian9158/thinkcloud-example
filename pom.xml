@@ -49,11 +49,10 @@
     <modules>
         <module>thinkcloud-example-domain</module>
         <module>thinkcloud-example-commons</module>
-        <module>thinkcloud-example-repo-api</module>
+        <module>thinkcloud-example-repo</module>
         <module>thinkcloud-example-biz-api</module>
         <module>thinkcloud-example-manager-api</module>
         <module>thinkcloud-example-biz-provider</module>
-        <module>thinkcloud-example-repo-provider</module>
         <module>thinkcloud-example-manager-provider</module>
         <module>thinkcloud-example-ctl</module>
         <module>thinkcloud-example-apiserver</module>
